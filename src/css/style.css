@@ -54,6 +54,13 @@ ol {
   padding: 0;
   list-style-type: none;
 }
+div.aboutme span{
+  font-size: 100px;
+}
+div.aboutme p{
+  font-family: 'Times New Roman', Times, serif;
+  line-height: 1px;
+}
 
 ul.unsorted{
   list-style-type: circle;
